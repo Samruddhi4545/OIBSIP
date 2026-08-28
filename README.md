@@ -27,26 +27,26 @@ Each task folder contains:
 Python · pandas · numpy · matplotlib · seaborn · scikit-learn · NLTK (VADER) · Plotly · Jupyter Notebook
 
 ## Repository Structure
-OIBSIP/
-├── DataAnalytics-L1-EDAonRetailSalesData/
-│ ├── EDAonRetailSalesData.ipynb
-│ ├── retail_sales_dataset.csv
-│ └── README.md
-├── DataAnalytics-L1-CustomerSegmentationAnalysis/
-│ ├── Customer_Segmentation_Analysis.ipynb
-│ ├── E-Commerce.csv
-│ └── README.md
-├── DataAnalytics-L1-CleaningData/
-│ ├── Cleaning_Data.ipynb
-│ ├── dirty_cafe_sales.csv
-│ ├── cleaned_cafe_sales.csv
-│ └── README.md
-├── DataAnalytics-L2-GooglePlayStoreAnalysis/
-│ ├── Google_Play_Store_Analysis.ipynb
-│ ├── googleplaystore.csv
-│ ├── googleplaystore_user_reviews.csv
-│ └── README.md
-└── README.md
+# OIBSIP/
+## ├── DataAnalytics-L1-EDAonRetailSalesData/
+### │ ├── EDAonRetailSalesData.ipynb
+### │ ├── retail_sales_dataset.csv
+### │ └── README.md
+## ├── DataAnalytics-L1-CustomerSegmentationAnalysis/
+### │ ├── Customer_Segmentation_Analysis.ipynb
+### │ ├── E-Commerce.csv
+### │ └── README.md
+## ├── DataAnalytics-L1-CleaningData/
+### │ ├── Cleaning_Data.ipynb
+### │ ├── dirty_cafe_sales.csv
+### │ ├── cleaned_cafe_sales.csv
+### │ └── README.md
+## ├── DataAnalytics-L2-GooglePlayStoreAnalysis/
+### │ ├── Google_Play_Store_Analysis.ipynb
+### │ ├── googleplaystore.csv
+### │ ├── googleplaystore_user_reviews.csv
+### │ └── README.md
+## └── README.md
 
 
 ## About Oasis Infobyte
